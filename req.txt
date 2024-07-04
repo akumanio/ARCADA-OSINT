@@ -1,0 +1,8 @@
+colour
+requests
+dadata
+pystyle
+colorama
+PyQt5
+PyQt5-sip
+PyQtWebEngine
